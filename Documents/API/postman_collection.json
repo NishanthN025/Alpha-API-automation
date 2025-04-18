@@ -9430,9 +9430,9 @@
 											}
 										},
 										"url": {
-											"raw": "{{URL}}{{endpoint}}/lineItems/{{sourcedId}}",
+											"raw": "{{URL}}{{pathPrefix}}/lineItems/{{sourcedId}}",
 											"host": [
-												"{{URL}}{{endpoint}}"
+												"{{URL}}{{pathPrefix}}"
 											],
 											"path": [
 												"lineItems",
@@ -9631,9 +9631,9 @@
 											}
 										},
 										"url": {
-											"raw": "{{URL}}{{endpoint}}/lineItems/{{sourcedId}}",
+											"raw": "{{URL}}{{pathPrefix}}/lineItems/{{sourcedId}}",
 											"host": [
-												"{{URL}}{{endpoint}}"
+												"{{URL}}{{pathPrefix}}"
 											],
 											"path": [
 												"lineItems",
@@ -10001,9 +10001,9 @@
 											}
 										},
 										"url": {
-											"raw": "{{URL}}{{endpoint}}/lineItems/{{sourcedId}}",
+											"raw": "{{URL}}{{pathPrefix}}/lineItems/{{sourcedId}}",
 											"host": [
-												"{{URL}}{{endpoint}}"
+												"{{URL}}{{pathPrefix}}"
 											],
 											"path": [
 												"lineItems",
@@ -10396,9 +10396,9 @@
 													}
 												},
 												"url": {
-													"raw": "{{URL}}{{endpoint}}/lineItems/{{sourcedId}}",
+													"raw": "{{URL}}{{pathPrefix}}/lineItems/{{sourcedId}}",
 													"host": [
-														"{{URL}}{{endpoint}}"
+														"{{URL}}{{pathPrefix}}"
 													],
 													"path": [
 														"lineItems",
@@ -10861,9 +10861,9 @@
 													}
 												},
 												"url": {
-													"raw": "{{URL}}{{endpoint}}/lineItems/{{sourcedId}}",
+													"raw": "{{URL}}{{pathPrefix}}/lineItems/{{sourcedId}}",
 													"host": [
-														"{{URL}}{{endpoint}}"
+														"{{URL}}{{pathPrefix}}"
 													],
 													"path": [
 														"lineItems",
@@ -11341,9 +11341,9 @@
 													}
 												},
 												"url": {
-													"raw": "{{URL}}{{endpoint}}/lineItems/{{sourcedId}}",
+													"raw": "{{URL}}{{pathPrefix}}/lineItems/{{sourcedId}}",
 													"host": [
-														"{{URL}}{{endpoint}}"
+														"{{URL}}{{pathPrefix}}"
 													],
 													"path": [
 														"lineItems",
@@ -11825,9 +11825,9 @@
 													}
 												},
 												"url": {
-													"raw": "{{URL}}{{endpoint}}/lineItems/{{sourcedId}}",
+													"raw": "{{URL}}{{pathPrefix}}/lineItems/{{sourcedId}}",
 													"host": [
-														"{{URL}}{{endpoint}}"
+														"{{URL}}{{pathPrefix}}"
 													],
 													"path": [
 														"lineItems",
@@ -12270,9 +12270,9 @@
 													}
 												},
 												"url": {
-													"raw": "{{URL}}{{endpoint}}/lineItems/{{sourcedId}}",
+													"raw": "{{URL}}{{pathPrefix}}/lineItems/{{sourcedId}}",
 													"host": [
-														"{{URL}}{{endpoint}}"
+														"{{URL}}{{pathPrefix}}"
 													],
 													"path": [
 														"lineItems",
@@ -12714,9 +12714,9 @@
 													}
 												},
 												"url": {
-													"raw": "{{URL}}{{endpoint}}/lineItems/{{sourcedId}}",
+													"raw": "{{URL}}{{pathPrefix}}/lineItems/{{sourcedId}}",
 													"host": [
-														"{{URL}}{{endpoint}}"
+														"{{URL}}{{pathPrefix}}"
 													],
 													"path": [
 														"lineItems",
@@ -13159,9 +13159,9 @@
 													}
 												},
 												"url": {
-													"raw": "{{URL}}{{endpoint}}/lineItems/{{sourcedId}}",
+													"raw": "{{URL}}{{pathPrefix}}/lineItems/{{sourcedId}}",
 													"host": [
-														"{{URL}}{{endpoint}}"
+														"{{URL}}{{pathPrefix}}"
 													],
 													"path": [
 														"lineItems",
@@ -13616,9 +13616,9 @@
 													}
 												},
 												"url": {
-													"raw": "{{URL}}{{endpoint}}/lineItems/{{sourcedId}}",
+													"raw": "{{URL}}{{pathPrefix}}/lineItems/{{sourcedId}}",
 													"host": [
-														"{{URL}}{{endpoint}}"
+														"{{URL}}{{pathPrefix}}"
 													],
 													"path": [
 														"lineItems",
@@ -14255,9 +14255,9 @@
 													}
 												},
 												"url": {
-													"raw": "{{URL}}{{endpoint}}/lineItems/{{sourcedId}}",
+													"raw": "{{URL}}{{pathPrefix}}/lineItems/{{sourcedId}}",
 													"host": [
-														"{{URL}}{{endpoint}}"
+														"{{URL}}{{pathPrefix}}"
 													],
 													"path": [
 														"lineItems",
@@ -14909,9 +14909,9 @@
 													}
 												},
 												"url": {
-													"raw": "{{URL}}{{endpoint}}/lineItems/{{sourcedId}}",
+													"raw": "{{URL}}{{pathPrefix}}/lineItems/{{sourcedId}}",
 													"host": [
-														"{{URL}}{{endpoint}}"
+														"{{URL}}{{pathPrefix}}"
 													],
 													"path": [
 														"lineItems",
@@ -15435,9 +15435,9 @@
 													}
 												},
 												"url": {
-													"raw": "{{URL}}{{endpoint}}/lineItems/{{sourcedId}}?fields={{randomFields}}",
+													"raw": "{{URL}}{{pathPrefix}}/lineItems/{{sourcedId}}?fields={{randomFields}}",
 													"host": [
-														"{{URL}}{{endpoint}}"
+														"{{URL}}{{pathPrefix}}"
 													],
 													"path": [
 														"lineItems",
@@ -15622,9 +15622,9 @@
 													}
 												},
 												"url": {
-													"raw": "{{URL}}{{endpoint}}/lineItems/{{sourcedId}}",
+													"raw": "{{URL}}{{pathPrefix}}/lineItems/{{sourcedId}}",
 													"host": [
-														"{{URL}}{{endpoint}}"
+														"{{URL}}{{pathPrefix}}"
 													],
 													"path": [
 														"lineItems",
@@ -16184,9 +16184,9 @@
 													}
 												},
 												"url": {
-													"raw": "{{URL}}{{endpoint}}/lineItems/{{assmentLineitemSourcedId}}",
+													"raw": "{{URL}}{{pathPrefix}}/lineItems/{{assmentLineitemSourcedId}}",
 													"host": [
-														"{{URL}}{{endpoint}}"
+														"{{URL}}{{pathPrefix}}"
 													],
 													"path": [
 														"lineItems",
