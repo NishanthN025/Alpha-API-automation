@@ -2290,9 +2290,9 @@
 													}
 												},
 												"url": {
-													"raw": "{{URL}}{{endpoint}}/assessmentLineItems/{{randomUUID}}",
+													"raw": "{{URL}}{{pathPrefix}}/assessmentLineItems/{{randomUUID}}",
 													"host": [
-														"{{URL}}{{endpoint}}"
+														"{{URL}}{{pathPrefix}}"
 													],
 													"path": [
 														"assessmentLineItems",
@@ -2748,9 +2748,9 @@
 													}
 												},
 												"url": {
-													"raw": "{{URL}}{{endpoint}}/assessmentLineItems/{{randomUUID}}",
+													"raw": "{{URL}}{{pathPrefix}}/assessmentLineItems/{{randomUUID}}",
 													"host": [
-														"{{URL}}{{endpoint}}"
+														"{{URL}}{{pathPrefix}}"
 													],
 													"path": [
 														"assessmentLineItems",
@@ -3159,9 +3159,9 @@
 													}
 												},
 												"url": {
-													"raw": "{{URL}}{{endpoint}}/assessmentLineItems/{{randomUUID}}",
+													"raw": "{{URL}}{{pathPrefix}}/assessmentLineItems/{{randomUUID}}",
 													"host": [
-														"{{URL}}{{endpoint}}"
+														"{{URL}}{{pathPrefix}}"
 													],
 													"path": [
 														"assessmentLineItems",
@@ -3470,9 +3470,9 @@
 													}
 												},
 												"url": {
-													"raw": "{{URL}}{{endpoint}}/assessmentLineItems/{{randomUUID}}",
+													"raw": "{{URL}}{{pathPrefix}}/assessmentLineItems/{{randomUUID}}",
 													"host": [
-														"{{URL}}{{endpoint}}"
+														"{{URL}}{{pathPrefix}}"
 													],
 													"path": [
 														"assessmentLineItems",
@@ -3931,9 +3931,9 @@
 													}
 												},
 												"url": {
-													"raw": "{{URL}}{{endpoint}}/assessmentLineItems/{{randomUUID}}",
+													"raw": "{{URL}}{{pathPrefix}}/assessmentLineItems/{{randomUUID}}",
 													"host": [
-														"{{URL}}{{endpoint}}"
+														"{{URL}}{{pathPrefix}}"
 													],
 													"path": [
 														"assessmentLineItems",
@@ -4389,9 +4389,9 @@
 													}
 												},
 												"url": {
-													"raw": "{{URL}}{{endpoint}}/assessmentLineItems/{{randomUUID}}",
+													"raw": "{{URL}}{{pathPrefix}}/assessmentLineItems/{{randomUUID}}",
 													"host": [
-														"{{URL}}{{endpoint}}"
+														"{{URL}}{{pathPrefix}}"
 													],
 													"path": [
 														"assessmentLineItems",
